@@ -73,6 +73,3 @@ Summary metrics (from experiments in the notebook):
 **7. Contact**
 For questions, collaboration, or access to extended datasets, contact the project author.
 
- `requirements.txt` with pinned versions?
-- add a short CONTRIBUTING or USAGE guide for running experiments headless?
-
